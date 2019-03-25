@@ -1,7 +1,5 @@
 package rocks.zipcode.io.quiz3.fundamentals;
 
-import com.sun.xml.internal.fastinfoset.util.StringArray;
-
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
